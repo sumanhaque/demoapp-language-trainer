@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/margin.standard.medium"
+    android:elevation="@dimen/lesson_item_elevation">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/padding.standard.medium">
+
+        <TextView
+            android:id="@+id/tv_lesson_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin.standard.normal"
+            android:padding="@dimen/padding.standard.large"
+            android:textColor="@color/color.cutty.sark"
+            android:textSize="@dimen/text.size.normal"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_lesson_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin.standard.small"
+            android:padding="@dimen/padding.standard.small"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_" />
+    <string name="str_pronunciation">Pronunciation</string>
+    <string name="str_colon">:</string>
+    <string name="str_tap_to_record">tap to record</string>
+    <string name="str_end">End of lesson</string>
+
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="err_get_lessons">error while downloading lessons from server</string>
+    <string name="str_nothing_to_display">nothing to display</string>
+    <string name="err">error</string>
+    <string name="err_download">error while downloading audio file</string>
+</resources>

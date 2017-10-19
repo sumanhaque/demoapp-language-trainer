@@ -1,0 +1,21 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin.standard.small">5dp</dimen>
+    <dimen name="margin.standard.medium">10dp</dimen>
+    <dimen name="margin.standard.normal">15dp</dimen>
+    <dimen name="margin.standard.large">20dp</dimen>
+    <dimen name="margin.lesson.conceptname">50dp</dimen>
+
+    <dimen name="padding.standard.small">2dp</dimen>
+    <dimen name="padding.standard.medium">5dp</dimen>
+    <dimen name="padding.standard.normal">10dp</dimen>
+    <dimen name="padding.standard.large">15dp</dimen>
+
+    <dimen name="text.size.small">12sp</dimen>
+    <dimen name="text.size.medium">15sp</dimen>
+    <dimen name="text.size.normal">18sp</dimen>
+    <dimen name="text.size.large">20sp</dimen>
+
+    <dimen name="image_back_height">240dp</dimen>
+    <dimen name="lesson_item_elevation">10dp</dimen>
+</resources>
